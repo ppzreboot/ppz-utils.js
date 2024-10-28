@@ -1,0 +1,22 @@
+{
+  "name": "shugar",
+  "version": "0.0.0",
+  "description": "PPz's JavaScript shugars.",
+  "main": "mod.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test --watch"
+  },
+  "keywords": [
+    "sugar",
+    "utils",
+    "ppz"
+  ],
+  "author": "ppz",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "typescript": "^5.6.3"
+  }
+}
