@@ -4,5 +4,5 @@
 PPz's JavaScript shugars.
 
 ``` bash
-npm install shugar
+deno add @ppz/sugar
 ```
