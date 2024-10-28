@@ -1,5 +1,5 @@
 # sugar.js
-[github](https://github.com/ppzreboot/sugar.js)
+[Github](https://github.com/ppzreboot/sugar.js) | [API](https://jsr.io/@ppz/sugar/doc)
 
 PPz's JavaScript sugar.
 
