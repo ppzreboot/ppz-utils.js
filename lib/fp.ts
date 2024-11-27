@@ -1,6 +1,6 @@
 /** freeze/functional object */
 export
-const F = <T extends Object>(obj: T) => Object.freeze({ ...obj })
+const F = <T extends Object>(obj: T) => Object.freeze(obj)
 
 /**
  * `f_obj` is a set of primatives.
