@@ -1,5 +1,5 @@
 # PPz's JavaScript Utils
-[Github](https://github.com/ppzreboot/ppz-utils)
+[Github](https://github.com/ppzreboot/ppz-utils.js)
 
 ## Install
 ``` bash
