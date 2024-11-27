@@ -1,0 +1,21 @@
+{
+  "name": "ppz-utils",
+  "version": "0.0.0",
+  "description": "PPz's JavaScript Utils",
+  "type": "module",
+  "exports": {
+    ".": "./lib/mod.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && node --test"
+  },
+  "keywords": [
+    "ppz"
+  ],
+  "author": "PPz",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

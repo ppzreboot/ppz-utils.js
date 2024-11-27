@@ -1,1 +1,2 @@
-export * from './alias.ts'
+export * from './alias'
+export * from './fp'

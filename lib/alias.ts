@@ -3,7 +3,7 @@
  * 
  * @example
  * ``` typescript
- * import { alias } from '@ppz/sugar'
+ * import { alias } from 'ppz-utils'
  * 
  * const data = {
  *   user: {
@@ -19,6 +19,5 @@
  * ```
  */
 export
-function alias<V, Result>(v: V, consume: (v: V) => Result): Result {
-  return consume(v)
-}
+const alias = <V, Result>(v: V, consume: (v: V) => Result) =>
+  consume(v)
